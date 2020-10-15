@@ -4,8 +4,12 @@ lorem ipsum
 lorem ipsum
 lorem ipsum
 
+Ajout:
+
 lorem ipsum 
 lo
 rem 
 ips 
 um
+=======
+>>>>>>> 3e729d92e304f4cea834e322f80ff46bae38defa
